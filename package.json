@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/nicojs/renovate-bot-issue-16850#readme",
   "devDependencies": {
-    "@types/node": "18.6.3"
+    "@types/node": "18.19.59"
   }
 }
